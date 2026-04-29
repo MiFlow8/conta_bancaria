@@ -114,7 +114,7 @@ Para executar o projeto localmente, você precisará de:
 
 
 
-1\. Clone o repositório \[Conta Bancária](https://github.com/MiFlow8/conta\_bancaria) dentro da pasta do \*Workspace\* do Eclipse/STS
+1\. Clone o repositório \[Conta Bancária](https://github.com/MiFlow8/conta_bancaria) dentro da pasta do \*Workspace\* do Eclipse/STS
 
 
 
